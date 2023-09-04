@@ -4,7 +4,7 @@
 - Go to milestone
 - Oped given task like Resume 1.0
 - There are some assigned task open any of them
-- scroll down and wrote a comment about task update .
+- scroll down and  wrote a comment about task update .
 # How to add notes on gh-pages and do Pull Request.
 - Open Thunder
 - Clicked on Code
