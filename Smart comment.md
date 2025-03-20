@@ -1,5 +1,4 @@
 #  Steps to do Smart comment
-
 - Open Thunder
 - Clicked on Issue
 - Go to milestone
